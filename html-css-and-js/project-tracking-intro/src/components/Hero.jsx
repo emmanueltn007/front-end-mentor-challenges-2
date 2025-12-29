@@ -7,16 +7,16 @@ function Hero () {
             <section className="flex flex-col justify-center gap-4 md:row-start-1 z-20 ">
                 <span className="flex items-center gap-1 text-gray-500 py-8">
                     <span 
-                        className="text-white bg-[hsl(230,29%,20%)] py-1 px-2 rounded-2xl"
+                        className="text-white bg-[hsl(230,29%,20%)] py-1 px-2 rounded-2xl tracking-widest"
                     >
                         NEW
                     </span>
                     MONOGRAPH DASHBOARD
                 </span>
-                <h1 className="text-xl md:text-3xl font-extrabold">
+                <h1 className="text-5xl md:text-3xl font-bold">
                     POWERFUL INSIGHTS INTO YOUR TEAM
                 </h1>
-                <p className="text-gray-500 font-semibold">
+                <p className="text-gray-500 font-medium">
                     Project planning and time tracking for agile teams
                 </p>
                 <div className="flex items-center gap-2">
