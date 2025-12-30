@@ -42,9 +42,4 @@ For the social icons, you can use the icons provided or a font icon library. Som
 - [Ionicons](https://ionicons.com)
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
-
-grid grid-rows-[1fr_1fr] md:grid-cols-[1fr_1fr] md:grid-rows-1
-
-<div className="border border-[hsl(12,88%,59%)] h-2 w-2 rounded-full cursor-pointer"></div>
-<div className="border border-[hsl(12,88%,59%)] h-2 w-2 rounded-full cursor-pointer"></div>
-<div className="border border-[hsl(12,88%,59%)] h-2 w-2 rounded-full cursor-pointer"></div>
+              >
